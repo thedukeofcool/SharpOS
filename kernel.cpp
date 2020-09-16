@@ -3,7 +3,7 @@
 
 enum vga_color
 {
-  COLOR_BLACK = 0,
+  	COLOR_BLACK = 0,
 	COLOR_BLUE = 1,
 	COLOR_GREEN = 2,
 	COLOR_CYAN = 3,
